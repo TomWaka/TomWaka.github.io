@@ -7,16 +7,6 @@ author_profile: true
 
 ## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 - Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica, accepted. (publication, arXiv)
 
 - Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica, accepted. (publication, arXiv)
