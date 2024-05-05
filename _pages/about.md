@@ -35,13 +35,13 @@ preprint
 - Wakayama, T., Sugasawa, S., Kobayashi, G. (2023), "Similarity-based Random Partition Distribution for Clustering Functional Data", arXiv preprint, arXiv:2308.01704.
 
 Publication
-- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica, accepted. (publication, arXiv)
+- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica. (publication)
 
-- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica, accepted. (publication, arXiv)
+- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. (publication)
 
-- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. (open access, code)
+- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. (publication, code)
 
-[See all publications](/publications)
+[See all papers](/publications)
 
 Recent Talks
 ------
