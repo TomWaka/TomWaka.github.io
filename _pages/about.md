@@ -15,9 +15,9 @@ About Me
 
 Research Highlights
 ------
-- Developed a novel Bayesian trend filtering method for functional data
-- Investigated the conditions for perfect classification in functional data analysis
-- Proposed a spatiotemporal factor model for large-scale data with applications in population map forecasting
+- Functional data analysis for large-scale spatio-temporal data
+- Bayesian shrinkage estimate
+- Statistical learning theory for High dimensional data
 
 Education
 ------
@@ -54,7 +54,7 @@ Recent Talks
 [See all talks](/talks)
 
 
-Recent Awards and Grants
+Recent Awards & Grants
 ------
 - 2023/10-2025/3  ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.
 
