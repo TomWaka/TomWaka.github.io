@@ -19,12 +19,6 @@ Research Highlights
 - Bayesian shrinkage estimate
 - Statistical learning theory for High dimensional data
 
-Education
-------
-- Ph.D. in Economics (Expected), The University of Tokyo, 2025
-- M.S. in Economics, The University of Tokyo, 2022
-- B.S. in Engineering, Osaka Prefecture University, 2020
-
 Recent Papers
 ------
 preprint
@@ -63,6 +57,13 @@ Recent Awards & Grants
 - 2022/04- 日本学術振興会特別研究員DC1, JSPS. (Research Fellow DC1, Japan Society for the Promotion of Science)
 
 [See all awards and grants](/awards_grants)
+
+
+Education
+------
+- Ph.D. in Economics (Expected), The University of Tokyo, 2025
+- M.S. in Economics, The University of Tokyo, 2022
+- B.S. in Engineering, Osaka Prefecture University, 2020
 
 
 Contact
