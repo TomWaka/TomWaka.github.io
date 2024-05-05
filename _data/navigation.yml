@@ -1,4 +1,4 @@
-# main links links
+main:
   - title: "About"
     url: "/"
   - title: "Publications"
@@ -9,3 +9,17 @@
     url: "/awards_grants/"
   - title: "Experiences"
     url: "/experiences/"
+
+publications:
+  - title: "Published Papers"
+    url: "/publications/#published-papers"
+  - title: "Preprints"
+    url: "/publications/#preprints"
+
+experiences:
+  - title: "Internships"
+    url: "/experiences/#internships"
+  - title: "Research Assistantships"
+    url: "/experiences/#research-assistantships"
+  - title: "Teaching Assistantships"
+    url: "/experiences/#teaching-assistantships"
