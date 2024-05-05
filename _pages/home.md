@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tomoya's Website"
+title: ""
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-About Me
+About
 ------
 - Hi! I am Tomoya Wakayama, a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). 
 - My research interests lie in Bayesian inference, Bayesian deep learning, and spatial statistics.
