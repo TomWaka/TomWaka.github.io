@@ -35,7 +35,7 @@ Publication
 
 - Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. (publication, code)
 
-[See all papers](/publications)
+[See all papers](/papers)
 
 Recent Talks
 ------
