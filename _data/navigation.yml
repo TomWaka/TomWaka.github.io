@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: "/"
-  - title: "Publications"
-    url: "/publications/"
+  - title: "Papers"
+    url: "/papers/"
   - title: "Talks"
     url: "/talks/"
   - title: "Awards and Grants"
@@ -10,11 +10,11 @@ main:
   - title: "Experiences"
     url: "/experiences/"
 
-publications:
-  - title: "Published Papers"
-    url: "/publications/#published-papers"
+papers:
+  - title: "Papers"
+    url: "/papers/#published-papers"
   - title: "Preprints"
-    url: "/publications/#preprints"
+    url: "/papers/#preprints"
 
 experiences:
   - title: "Internships"
