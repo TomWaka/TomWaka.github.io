@@ -20,14 +20,13 @@ repository               : "TomWaka/TomWaka.github.io"
 author:
   name             : "Tomoya Wakayama"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Statistics at the University of Tokyo. Research interests: Bayesian inference, Bayesian deep learning, and spatial statistics."
+  bio              : "Ph.D. candidate. "
   location         : "Tokyo, Japan"
   employer         : "University of Tokyo"
   googlescholar    : "https://scholar.google.com/citations?user=qLFVWB0AAAAJ"
   email            : "tom-w9@g.ecc.u-tokyo.ac.jp"
-
-  # Repositories and software development
   github           : "TomWaka"
+  twitter : "10m8mkW"
 
 # Site Settings  
 breadcrumbs              : false 
