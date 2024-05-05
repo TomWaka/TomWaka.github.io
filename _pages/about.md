@@ -22,18 +22,20 @@ Research Highlights
 Recent Papers
 ------
 preprint
-- Wakayama, T. (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression", arXiv preprint, arXiv:2404.04498.
+-
+- Wakayama, T. (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression", arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498).
 
-- Wakayama, T., and Matsui, H. (2023), "Functional Data Regression Reconciles with Excess Bases", arXiv preprint, arXiv:2308.01724.
+- Wakayama, T., and Matsui, H. (2023), "Functional Data Regression Reconciles with Excess Bases", arXiv preprint, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 
-- Wakayama, T., Sugasawa, S., Kobayashi, G. (2023), "Similarity-based Random Partition Distribution for Clustering Functional Data", arXiv preprint, arXiv:2308.01704.
+- Wakayama, T., Sugasawa, S., Kobayashi, G. (2023), "Similarity-based Random Partition Distribution for Clustering Functional Data", arXiv preprint, [arXiv:2308.01704](https://arxiv.org/abs/2308.01704).
 
 Publication
-- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica. (publication)
+-
+- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica, accepted. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297\_fp.pdf))
 
-- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. (publication)
-
-- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. (publication, code)
+- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica, accepted. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258\_fp.pdf))
+  
+- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
 
 [See all papers](/papers)
 
