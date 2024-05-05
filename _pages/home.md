@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Tomoya's Website"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /home/
