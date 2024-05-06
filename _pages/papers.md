@@ -7,11 +7,11 @@ author_profile: true
 
 ## Publications
 
-- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica, accepted. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297_fp.pdf))
+- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297_fp.pdf))
 
-- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica, accepted. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258_fp.pdf))
+- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258_fp.pdf))
 
-- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat, published. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
+- Wakayama, T. and Sugasawa, S. (2023), "Trend Filtering for Functional Data". Stat. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
 
 ## Preprints
 
