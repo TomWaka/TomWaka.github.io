@@ -7,7 +7,7 @@ author_profile: true
 
 ## Internships
 
-### Data Scientist at Nospare Inc. (2021 - Current)
+### Data Scientist at Nospare Inc. (2021 - 2023)
 - Worked on various data science projects utilizing statistical modeling
 
 ## Research Assistantships
