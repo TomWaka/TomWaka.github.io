@@ -50,11 +50,16 @@ Recent Talks
 
 Recent Awards & Grants
 ------
-- 2023/10-2025/3  ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.
+- 2023/10-2025/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
 
-- 2023 ISI東京大会記念奨励賞, 日本統計学会 (ISI Tokyo Memorial Encouragement Award, Japanese Statistical Society)
+  <small>(ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.)</small>
 
-- 2022/04- 日本学術振興会特別研究員DC1, JSPS. (Research Fellow DC1, Japan Society for the Promotion of Science)
+- 2023 ISI東京大会記念奨励賞, 日本統計学会 
+
+  <small>(ISI Tokyo Memorial Encouragement Award, Japanese Statistical Society)
+
+- 2022/04- 日本学術振興会特別研究員DC1, JSPS. 
+  <small>(Research Fellow DC1, Japan Society for the Promotion of Science)
 
 [See all awards and grants](/awards_grants)
 
