@@ -8,7 +8,6 @@ author_profile: true
 ## Grants & Fellowships
 
 - 2023/10-2025/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
-
   <small>(ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.)</small>
 
 - 2023/08-2023/11 若手研究者海外挑戦プログラム,  JSPS. 
@@ -42,7 +41,7 @@ author_profile: true
 
 - 優秀報告賞​, 2021年度統計関連学会連合大会, 2021/9.
 
-  <small>(Best Presentation Award, Japanese Joint Statistical Meeting 2021, September 2021)</small>
+  <small>(Nice Presentation Award, Japanese Joint Statistical Meeting 2021, September 2021)</small>
 
 - 学生優秀発表賞, 第15回日本統計学会春季集会, 2021/3. 
 
