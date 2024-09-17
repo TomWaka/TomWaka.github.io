@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), supervised by Professor Imaizumi. I obtained master's degree under the supervision of Professor Sugasawa.  I am a DC research fellow of the Japan Society for the Promotion of Science (JSPS) and a ACT-X researcher of the Japan Science and Technology Agency (JST).
+I am a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), supervised by Prof. Masaaki Imaizumi. I obtained master's degree under the supervision of Prof. Shonosuke Sugasawa. I am a DC research fellow of the Japan Society for the Promotion of Science (JSPS) and a ACT-X researcher of the Japan Science and Technology Agency (JST).
 
 Research Highlights
 ------
