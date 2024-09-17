@@ -7,18 +7,19 @@ author_profile: true
 
 ## Grants & Fellowships
 
-- 2023/10-2025/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
+- 2023/10-2026/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
+
   <small>(ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.)</small>
 
 - 2023/08-2023/11 若手研究者海外挑戦プログラム,  JSPS. 
 
   <small>(Overseas Challenge Program for Young Researchers, PI: Sudipto Banerjee at UCLA)</small>
 
-- 2022/04- 日本学術振興会特別研究員DC1,  JSPS.
+- 2022/04-2025/3 日本学術振興会特別研究員DC1,  JSPS.
 
   <small>(Research Fellow DC1)</small>
 
-- 2021/06- 先端経済国際卓越大学院プログラム, 東京大学.
+- 2021/06-2025/3 先端経済国際卓越大学院プログラム, 東京大学.
 
   <small>(World-leading Innovative Graduate Study Program)</small>
   

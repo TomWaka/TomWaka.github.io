@@ -8,9 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-About
+About me
 ------
-I am a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). My research interests lie in Bayesian inference, Bayesian deep learning, and spatial statistics.
+I am a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), supervised by Professor Imaizumi. I obtained master's degree under the supervision of Professor Sugasawa.  I am a DC research fellow of the Japan Society for the Promotion of Science (JSPS) and a ACT-X researcher of the Japan Science and Technology Agency (JST).
 
 Research Highlights
 ------
