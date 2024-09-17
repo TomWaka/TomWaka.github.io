@@ -3,7 +3,7 @@ main:
     url: "/papers/"
   - title: "Talks"
     url: "/talks/"
-  - title: "Awards and Grants"
+  - title: "Awards & Grants"
     url: "/awards_grants/"
   - title: "Experiences"
     url: "/experiences/"
