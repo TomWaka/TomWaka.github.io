@@ -9,9 +9,9 @@ author_profile: true
 
 - **Wakayama, T.** and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297_fp.pdf), [arXiv](https://arxiv.org/abs/2206.03080))
+- **Wakayama, T.** and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297_fp.pdf), [arXiv](https://arxiv.org/abs/2204.09898))
 
-- **Wakayama, T.** and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258_fp.pdf), [arXiv](https://arxiv.org/abs/2205.10210))
+- **Wakayama, T.** and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258_fp.pdf), [arXiv](https://arxiv.org/abs/2104.02978))
 
 - **Wakayama, T.** and Sugasawa, S. (2023), "Trend Filtering for Functional Data". *Stat*. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
 
