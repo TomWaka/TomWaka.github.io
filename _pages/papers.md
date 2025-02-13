@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2024), "Clustered Factor Analysis for Multivariate Spatial Data". *Accepted by Spatial Statistics*. arXiv preprint, [arXiv:2409.07018](https://arxiv.org/abs/2409.07018), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis).
+
 - **Wakayama, T.** and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 
 - **Wakayama, T.** and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/sstest/J34N3/J34N315/J34N315.html), [arXiv](https://arxiv.org/abs/2204.09898))
@@ -20,8 +22,6 @@ author_profile: true
 - **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
 
 - **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". arXiv preprint, [arXiv:2408.09755](https://arxiv.org/abs/2408.09755), [code](https://github.com/TomWaka/CovariateDependentStacking).
-
-- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2024), "Clustered Factor Analysis for Multivariate Spatial Data". arXiv preprint, [arXiv:2409.07018](https://arxiv.org/abs/2409.07018), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis).
 
 - **Wakayama, T.** (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
 
