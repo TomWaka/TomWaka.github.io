@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2024), "Clustered Factor Analysis for Multivariate Spatial Data". *Accepted by Spatial Statistics*. arXiv preprint, [arXiv:2409.07018](https://arxiv.org/abs/2409.07018), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis).
+- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2024), "Clustered Factor Analysis for Multivariate Spatial Data". *Accepted by Spatial Statistics*. [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis).
 
 - **Wakayama, T.** and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 
