@@ -62,7 +62,11 @@ Recent Awards & Grants
 Education
 ------
 - Ph.D. in Economics (Expected), The University of Tokyo, 2025
+  Dissertation: *"Nonparametric Bayesian Statistics for High-dimensional Data"*
+
 - M.S. in Economics, The University of Tokyo, 2022
+  Master's Thesis: *"Trend Filtering for Functional Data: Optimization and Bayesian Approach"*
+
 - B.S. in Engineering, Osaka Prefecture University, 2020
 
 

@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2024
 
+- **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", 2024 IMS International Conference on Statistics and Data Science, Nice, France, December 2024.
+
 - **Wakayama, T.**, Sugasawa, S., Kobayashi, G. "Similarity-based Random Partition Distribution for Clustering Functional Data", ISBA World Meeting 2024, Venice, Italy, June 2024.
 
 - Wakayama, T., and **Banerjee, S.** (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", ISBA World Meeting 2024, Venice, Italy, June 2024. (*)
