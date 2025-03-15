@@ -1,81 +1,92 @@
 /* ==========================================================================
-   Modern FOOTER
+   FOOTER
    ========================================================================== */
 
-   .page__footer {
-    width: 100%;
-    padding: 2em 1em;
-    position: relative;
-    margin-top: 4em;
-    background-color: $lighter-gray;
-    color: $gray-dark;
-    border-top: 1px solid $border-color;
-    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.05);
-    animation: fadeInUp 0.5s ease;
-  
-    footer {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+.page__footer {
+  @include clearfix;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+  /* sticky footer fix start */
+  position: absolute;
+  bottom: 0em;
+  height: auto;
+  /* sticky footer fix end */
+  margin-top: 3em;
+  color: mix(#fff, $gray, 25%);
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.45s;
+          animation-delay: 0.45s;
+  background-color: $lighter-gray;
+  border-top: 1px solid $light-gray;
+
+  footer {
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    max-width: 100%;
+    padding: 0 1em 2em;
+
+    @include breakpoint($x-large) {
       max-width: $x-large;
-      margin: 0 auto;
-  
-      @include breakpoint($medium) {
-        flex-direction: row;
-        justify-content: space-between;
-      }
     }
-  
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: mix(#fff, $gray, 25%);
+  }
+}
+
+.page__footer-copyright {
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+}
+
+.page__footer-follow {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+  }
+
+  li + li:before {
+    content: "";
+    padding-right: 5px;
+  }
+
+  a {
+    padding-right: 10px;
+    font-weight: bold;
+  }
+
+  .social-icons {
     a {
-      color: inherit;
-      transition: color 0.3s ease;
-  
-      &:hover {
-        color: darken($brand-color, 10%);
-      }
-    }
-  
-    .social-icons {
-      display: flex;
-      gap: 1em;
-  
-      a {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        width: 40px;
-        height: 40px;
-        background-color: $gray;
-        border-radius: 50%;
-        color: #fff;
-        transition: background-color 0.3s ease;
-  
-        &:hover {
-          background-color: $brand-color;
-        }
-      }
-    }
-  
-    .page__footer-copyright {
-      font-family: $global-font-family;
-      font-size: $type-size-7;
-      margin-top: 1em;
-  
-      @include breakpoint($medium) {
-        margin-top: 0;
-      }
+      white-space: nowrap;
     }
   }
-  
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-  
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
+}
