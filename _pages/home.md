@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am currently a Ph.D. candidate in the Department of Statistics at the [Graduate School of Economics](https://www.e.u-tokyo.ac.jp/index-e.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), under the supervision of [Prof. Masaaki Imaizumi](https://www.imalab.org/). I obtained my master's degree under the guidance of [Prof. Shonosuke Sugasawa](https://sites.google.com/view/ssugasawa/home?authuser=0). I am also a DC research fellow of the Japan Society for the Promotion of Science (JSPS) and an ACT-X researcher of the Japan Science and Technology Agency (JST).
+I am currently working as a postdoctoral researcher in [the Deep Learning Theory team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html)
 
 Research Interests
 ------
@@ -61,21 +61,17 @@ Recent Awards & Grants
 
 Education
 ------
-- Ph.D. in Economics (Expected), The University of Tokyo, 2025
+
+- Ph.D. in Economics, The University of Tokyo, 2025
 
   Dissertation: *"Nonparametric Bayesian Statistics for High-dimensional Data"*
+
+  Supervisor: [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/home?authuser=0)
 
 - M.S. in Economics, The University of Tokyo, 2022
 
   Master's Thesis: *"Trend Filtering for Functional Data: Optimization and Bayesian Approach"*
+  
+  Supervisor: [Shonosuke Sugasawa](https://sites.google.com/view/ssugasawa/home?authuser=0)
 
 - B.S. in Engineering, Osaka Prefecture University, 2020
-
-
-Contact
-------
-Tomoya Wakayama  
-Department of Statistics  
-Graduate School of Economics  
-The University of Tokyo  
-7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
