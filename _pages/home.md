@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am currently working as a postdoctoral researcher in [the Deep Learning Theory team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html)
+I am currently working as a postdoctoral researcher in [the Deep Learning Theory team at RIKEN AIP](https://www.riken.jp/en/research/labs/aip/generic_tech/deep_learn_theory/index.html).
 
 Research Interests
 ------
