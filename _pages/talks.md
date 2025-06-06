@@ -7,6 +7,10 @@ author_profile: true
 
 ## International (*: invited talk/session)
 
+### 2025
+
+- Wakayama, T., and Imaizumi, M. (2025), "Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra", Objective Bayes Methodology Conference 2025, Athens, Greece, June 2025.
+
 ### 2024
 
 - **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", 2024 IMS International Conference on Statistics and Data Science, Nice, France, December 2024.

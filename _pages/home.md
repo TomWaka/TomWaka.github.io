@@ -30,9 +30,10 @@ Preprint
 - Wakayama, T. (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
 
 Publication
-- Wakayama, T. and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 
-- Wakayama, T. and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0297\_fp.pdf))
+- Wakayama, T., Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. [arXiv:2308.01704](https://arxiv.org/abs/2308.01704), [code](https://github.com/TomWaka/Similarity-based-Generalized-Dirichlet-Process).
+
+- Wakayama, T. and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 
 - Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258\_fp.pdf))
 
@@ -40,11 +41,12 @@ Publication
 
 Recent Talks
 ------
+- Wakayama, T., and Imaizumi, M. (2025), "Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra", Objective Bayes Methodology Conference 2025, Athens, Greece, June 2025.
+
+- Wakayama, T., and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", 2024 IMS International Conference on Statistics and Data Science, Nice, France, December 2024.
+
 - Wakayama, T., Sugasawa, S., Kobayashi, G. "Similarity-based Random Partition Distribution for Clustering Functional Data", ISBA World Meeting 2024, Venice, Italy, June 2024.
 
-- Wakayama, T., Sugasawa, S. Spatiotemporal factor models for functional data with application to population map forecast, EcoSta2023, Tokyo, Japan, August 2nd, 2023.
-
-- Wakayama, T. Spatio temporal factor models for large scale data, 64th ISI World Statistics Congress, Ottawa, Canada, July 17th, 2023.
 
 [See all talks](/talks)
 
