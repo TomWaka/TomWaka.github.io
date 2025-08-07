@@ -9,7 +9,7 @@ author_profile: true
 
 - **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". *Behaviormetrika*, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 
-- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. [arXiv:2308.01704](https://arxiv.org/abs/2308.01704), [code](https://github.com/TomWaka/Similarity-based-Generalized-Dirichlet-Process).
+- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
 
 - Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2025), "Clustered Factor Analysis for Multivariate Spatial Data". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/pii/S2211675325000119), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis))
 
