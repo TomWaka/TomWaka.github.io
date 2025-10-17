@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". Statistics and Computing, accepted.
+
 - **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". *Behaviormetrika*, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 
 - **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
@@ -24,8 +26,6 @@ author_profile: true
 ## Preprints
 
 - **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
-
-- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". arXiv preprint, [arXiv:2408.09755](https://arxiv.org/abs/2408.09755), [code](https://github.com/TomWaka/CovariateDependentStacking).
 
 - **Wakayama, T.** (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
 
