@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". Statistics and Computing, accepted.
+- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". *Statistics and Computing*. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
 
 - **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". *Behaviormetrika*, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 
