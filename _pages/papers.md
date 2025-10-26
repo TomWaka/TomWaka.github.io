@@ -7,28 +7,28 @@ author_profile: true
 
 ## Publications
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". *Statistics and Computing*. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
+- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". **Statistics and Computing**. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
 *Keywords:* ensemble learning; stacking; covariate-dependent weights; oracle inequality; spatio-temporal prediction. 
 
-- **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". *Behaviormetrika*, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
+- **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". **Behaviormetrika***, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 *Keywords:* functional data regression; overparameterization; double descent; basis expansion.
 
-- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
+- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". **Journal of the Royal Statistical Society, Series C**. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
 *Keywords:* random partition distribution; clustering; similarity information; state-space model; nonparametric Bayes. 
 
-- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2025), "Clustered Factor Analysis for Multivariate Spatial Data". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/pii/S2211675325000119), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis))
+- Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2025), "Clustered Factor Analysis for Multivariate Spatial Data". **Spatial Statistics**. ([publication](https://www.sciencedirect.com/science/article/pii/S2211675325000119), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis))
 *Keywords:* factor analysis; heterogeneity; K-means algorithm; spatial clustering.
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
+- **Wakayama, T.** and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". **Spatial Statistics**. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
 *Keywords:* state-space model; spatiotemporal factor model; horseshoe prior; population flow forecasting.
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/sstest/J34N3/J34N315/J34N315.html), [arXiv](https://arxiv.org/abs/2204.09898))
+- **Wakayama, T.** and Sugasawa, S. (2024), "Functional Horseshoe Smoothing for Functional Trend Estimation". **Statistica Sinica**. ([publication](https://www3.stat.sinica.edu.tw/sstest/J34N3/J34N315/J34N315.html), [arXiv](https://arxiv.org/abs/2204.09898))
 *Keywords:* functional time series; shrinkage prior; locally adaptive smoothing; trend filtering.
 
-- **Wakayama, T.** and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". *Statistica Sinica*. ([publication](https://www3.stat.sinica.edu.tw/sstest/j34n3/J34N324/J34N324.html), [arXiv](https://arxiv.org/abs/2104.02978))
+- **Wakayama, T.** and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". **Statistica Sinica**. ([publication](https://www3.stat.sinica.edu.tw/sstest/j34n3/J34N324/J34N324.html), [arXiv](https://arxiv.org/abs/2104.02978))
 *Keywords:* perfect classification; RKHS classifier; exponential convergence. 
 
-- **Wakayama, T.** and Sugasawa, S. (2023), "Trend Filtering for Functional Data". *Stat*. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
+- **Wakayama, T.** and Sugasawa, S. (2023), "Trend Filtering for Functional Data". **Stat**. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
 *Keywords:* ADMM; fused-lasso; grpuped lasso; basis expansion; cross-validation. 
 
 ## Preprints
