@@ -25,15 +25,14 @@ Preprint
 
 - Wakayama, T., and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
 
-- Wakayama, T. and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". arXiv preprint, [arXiv:2408.09755](https://arxiv.org/abs/2408.09755), [code](https://github.com/TomWaka/CovariateDependentStacking).
 
 - Wakayama, T. (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
 
 Publication
 
-- Wakayama, T., Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. [arXiv:2308.01704](https://arxiv.org/abs/2308.01704), [code](https://github.com/TomWaka/Similarity-based-Generalized-Dirichlet-Process).
+- Wakayama, T. and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". *Statistics and Computing*. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
 
-- Wakayama, T. and Sugasawa, S. (2024), "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast". *Spatial Statistics*. ([publication](https://www.sciencedirect.com/science/article/abs/pii/S221167532400040X), [code](https://github.com/TomWaka/Spatiotemporal-factor-models-for-functional-data))
+- Wakayama, T., Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. [arXiv:2308.01704](https://arxiv.org/abs/2308.01704), [code](https://github.com/TomWaka/Similarity-based-Generalized-Dirichlet-Process).
 
 - Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258\_fp.pdf))
 
@@ -52,7 +51,7 @@ Recent Talks
 
 Recent Awards & Grants
 ------
-- 2023/10-2025/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
+- 2023/10-2026/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
 
 - 2023 ISI東京大会記念奨励賞, 日本統計学会 
 
