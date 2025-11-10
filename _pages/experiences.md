@@ -10,18 +10,18 @@ author_profile: true
 ### Data Scientist at Nospare Inc. (2021 - 2023)
 - Worked on various data science projects utilizing statistical modeling
 
-## Research Assistantships
-
-### Complex Data Analysis project (2020 - 2023)
-- Worked under the guidance of PI: Masaaki Imaizumi, Graduate School of Arts and Sciences, The University of Tokyo
+## Research Assistant
 
 ### Beyond AI Joint Project (2023 - 2024)
 - Working under the guidance of PI: Shonosuke Sugasawa, Graduate School of Economics, Keio University
 
+### Complex Data Analysis project (2020 - 2023)
+- Worked under the guidance of PI: Masaaki Imaizumi, Graduate School of Arts and Sciences, The University of Tokyo
+
 ### Translation of Bayesian book project (2021)
 - Assisted in translating a book on Bayesian statistics from English to Japanese
 
-## Teaching Assistantships
+## Teaching Assistant
 
 ### Graduate School of Economics, The University of Tokyo
 
