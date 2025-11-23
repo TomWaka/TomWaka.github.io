@@ -33,6 +33,12 @@ author_profile: true
 
 ## Preprints
 
+- **Wakayama, T.**, and Suzuki, T. (2025), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning". arXiv preprint, [arXiv:2510.10981](https://arxiv.org/abs/2510.10981).
+*Keywords:* in-context learning; meta-learning; Bayesian inference; online learning theory; optimal transport;transformers.
+
+- Iwashige, F., **Wakayama, T.**, Sugasawa, S., and Hashimoto, S. (2025), "On Misspecified Error Distributions in Bayesian Functional Clustering: Consequences and Remedies". arXiv preprint, [arXiv:2510.17215](https://arxiv.org/abs/2510.17215).
+*Keywords:* Bayesian functional clustering; error misspecification; Gaussian process error modeling; nonparametric Bayes; Dirichlet process mixtures.
+
 - **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
 Keywords:* spatial energetics; wearable sensors; Bayesian predictive stacking; conjugate process models; mobile health inference.
 
