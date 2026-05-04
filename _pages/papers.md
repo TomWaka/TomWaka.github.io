@@ -7,13 +7,19 @@ author_profile: true
 
 ## Publications
 
-- **Wakayama, T.** and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". **Statistics and Computing**. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
+- **Wakayama, T.** (2026), "A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt". **ICML 2026**. to appear
+*Keywords:* test-time training; PAC-Bayes bound; transformers; subspace selection.
+
+- **Wakayama, T.**, and Suzuki, T. (2026), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning". **ICML 2026**. [arXiv:2510.10981](https://arxiv.org/abs/2510.10981).
+*Keywords:* in-context learning; meta-learning; Bayesian inference; online learning theory; optimal transport; transformers.
+
+- **Wakayama, T.** and Sugasawa, S. (2025), "Ensemble Prediction via Covariate-dependent Stacking". **Statistics and Computing**. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
 *Keywords:* ensemble learning; stacking; covariate-dependent weights; oracle inequality; spatio-temporal prediction. 
 
-- **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". **Behaviormetrika***, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
+- **Wakayama, T.**, and Matsui, H. (2025), "Reconciling Functional Data Regression with Excess Bases". **Behaviormetrika**, [arXiv:2308.01724](https://arxiv.org/abs/2308.01724).
 *Keywords:* functional data regression; overparameterization; double descent; basis expansion.
 
-- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". **Journal of the Royal Statistical Society, Series C**. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
+- **Wakayama, T.**, Sugasawa, S., and Kobayashi, G. (2025), "Similarity-based Random Partition Distribution for Clustering Functional Data". **Journal of the Royal Statistical Society, Series C**. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
 *Keywords:* random partition distribution; clustering; similarity information; state-space model; nonparametric Bayes. 
 
 - Jin, Y., **Wakayama, T.**, Jiang, R., and Sugasawa, S. (2025), "Clustered Factor Analysis for Multivariate Spatial Data". **Spatial Statistics**. ([publication](https://www.sciencedirect.com/science/article/pii/S2211675325000119), [code](https://github.com/yanxiuJin/Spatially_Clustered_Factor_Analysis))
@@ -29,18 +35,15 @@ author_profile: true
 *Keywords:* perfect classification; RKHS classifier; exponential convergence. 
 
 - **Wakayama, T.** and Sugasawa, S. (2023), "Trend Filtering for Functional Data". **Stat**. ([open access](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.590), [code](https://github.com/TomWaka/Locally-Adaptive-Smoothing-for-Functional-Data))
-*Keywords:* ADMM; fused-lasso; grpuped lasso; basis expansion; cross-validation. 
+*Keywords:* ADMM; fused-lasso; grouped lasso; basis expansion; cross-validation. 
 
 ## Preprints
-
-- **Wakayama, T.**, and Suzuki, T. (2025), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning". arXiv preprint, [arXiv:2510.10981](https://arxiv.org/abs/2510.10981).
-*Keywords:* in-context learning; meta-learning; Bayesian inference; online learning theory; optimal transport;transformers.
 
 - Iwashige, F., **Wakayama, T.**, Sugasawa, S., and Hashimoto, S. (2025), "On Misspecified Error Distributions in Bayesian Functional Clustering: Consequences and Remedies". arXiv preprint, [arXiv:2510.17215](https://arxiv.org/abs/2510.17215).
 *Keywords:* Bayesian functional clustering; error misspecification; Gaussian process error modeling; nonparametric Bayes; Dirichlet process mixtures.
 
 - **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
-Keywords:* spatial energetics; wearable sensors; Bayesian predictive stacking; conjugate process models; mobile health inference.
+*Keywords:* spatial energetics; wearable sensors; Bayesian predictive stacking; conjugate process models; mobile health inference.
 
 - **Wakayama, T.** (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
 *Keywords:* overparameterized nonlinear regression; Bayesian adaptive prior; posterior contraction; single-neuron & GLM; uncertainty quantification.
