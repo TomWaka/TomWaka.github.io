@@ -1,0 +1,84 @@
+type = "card"
+title = "Awards & Grants"
+
+[[items]]
+title = "JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists"
+subtitle = "Japan Society for the Promotion of Science"
+date = "2026 -"
+content = "JPY 4,550,000."
+tags = ["Grant"]
+
+[[items]]
+title = "RIKEN Incentive Research Project"
+subtitle = "RIKEN"
+date = "2026 -"
+tags = ["Grant"]
+
+[[items]]
+title = "Excellent Presentation Award Finalist"
+subtitle = "IBIS2025, 28th Workshop on Information-Based Induction Sciences and Machine Learning"
+date = "2025"
+tags = ["Award"]
+
+[[items]]
+title = "ACT-X, Innovations in Mathematical and Information Sciences for Building Next-generation AI"
+subtitle = "Japan Science and Technology Agency"
+date = "2023 - 2026"
+content = "JPY 4,500,000."
+tags = ["Grant"]
+
+[[items]]
+title = "ISI Tokyo Memorial Encouragement Award"
+subtitle = "Japan Statistical Society"
+date = "2023"
+tags = ["Award"]
+
+[[items]]
+title = "Overseas Challenge Program for Young Researchers"
+subtitle = "Japan Society for the Promotion of Science"
+date = "2023"
+content = "Research visit with Sudipto Banerjee at UCLA."
+tags = ["Fellowship"]
+
+[[items]]
+title = "Excellent Presentation Award"
+subtitle = "Japanese Society of Applied Statistics"
+date = "2023"
+tags = ["Award"]
+
+[[items]]
+title = "JSPS Research Fellow DC1"
+subtitle = "Japan Society for the Promotion of Science"
+date = "2022 - 2025"
+content = "JPY 3,400,000."
+tags = ["Fellowship"]
+
+[[items]]
+title = "Best Student Research Presentation Award"
+subtitle = "36th Japanese Society of Computational Statistics Meeting"
+date = "2022"
+tags = ["Award"]
+
+[[items]]
+title = "World-leading Innovative Graduate Study Program"
+subtitle = "The University of Tokyo"
+date = "2021 - 2025"
+tags = ["Fellowship"]
+
+[[items]]
+title = "Nice Presentation Award"
+subtitle = "Japanese Joint Statistical Meeting"
+date = "2021"
+tags = ["Award"]
+
+[[items]]
+title = "Best Student Presentation Award"
+subtitle = "15th Japan Statistical Society Spring Meeting"
+date = "2021"
+tags = ["Award"]
+
+[[items]]
+title = "Japan Statistical Society Certificate Director's Award"
+subtitle = "15th Japan Statistical Society Spring Meeting"
+date = "2021"
+tags = ["Award"]
