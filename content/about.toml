@@ -1,0 +1,27 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Bayesian analysis",
+  "Theoretical foundations of AI"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "featured_papers"
+type = "publications"
+title = "Selected Papers"
+filter = "selected"
+limit = 6
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

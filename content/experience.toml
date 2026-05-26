@@ -1,0 +1,62 @@
+type = "card"
+title = "Experience"
+description = "Research, professional, and project experience."
+
+[[items]]
+title = "Postdoctoral Researcher"
+subtitle = "Deep Learning Theory Team, RIKEN Center for Advanced Intelligence Project"
+date = "2025 -"
+content = "Research on statistical learning theory, Bayesian methods, and theoretical foundations of modern machine learning."
+tags = ["Research", "RIKEN AIP"]
+
+[[items]]
+title = "Data Scientist"
+subtitle = "Nospare Inc."
+date = "2021 - 2023"
+content = "Worked on data science projects using statistical modeling and applied machine learning."
+tags = ["Industry", "Data Science"]
+
+[[items]]
+title = "Research Assistant"
+subtitle = "Beyond AI Joint Project"
+date = "2023 - 2024"
+content = "Worked under the guidance of Shonosuke Sugasawa at the Graduate School of Economics, Keio University."
+tags = ["Research Assistant"]
+
+[[items]]
+title = "Research Assistant"
+subtitle = "Complex Data Analysis Project"
+date = "2020 - 2023"
+content = "Worked under the guidance of Masaaki Imaizumi at the Graduate School of Arts and Sciences, The University of Tokyo."
+tags = ["Research Assistant"]
+
+[[items]]
+title = "Translation Assistant"
+subtitle = "Bayesian Statistics Book Project"
+date = "2021"
+content = "Assisted with translating a Bayesian statistics book from English to Japanese."
+tags = ["Bayesian Statistics", "Translation"]
+
+[[items]]
+title = "Teaching Assistant"
+subtitle = "Advanced Mathematical Statistics 1 and 2, Graduate School of Economics, The University of Tokyo"
+date = "2023"
+tags = ["Teaching Assistant"]
+
+[[items]]
+title = "Teaching Assistant"
+subtitle = "Statistics 1 and 2, Faculty of Economics, The University of Tokyo"
+date = "2022"
+tags = ["Teaching Assistant"]
+
+[[items]]
+title = "Teaching Assistant"
+subtitle = "Probability Theory 1, The University of Tokyo"
+date = "2022"
+tags = ["Teaching Assistant"]
+
+[[items]]
+title = "Teaching Assistant"
+subtitle = "Advanced Mathematical Statistics 1 and 2, Graduate School of Economics, The University of Tokyo"
+date = "2021"
+tags = ["Teaching Assistant"]
