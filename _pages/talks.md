@@ -7,6 +7,12 @@ author_profile: true
 
 ## International (*: invited talk/session)
 
+### 2026
+
+- **Wakayama, T.**, and Suzuki, T. (2026), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning", International Conference on Machine Learning (ICML 2026), Seoul, Korea, July 2026.
+
+- **Wakayama, T.**, and Banerjee, S. (2026), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", Joint Statistical Meetings (JSM 2026), Boston, USA, August 2026. (*)
+
 ### 2025
 
 - Wakayama, T., and Imaizumi, M. (2025), "Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra", Objective Bayes Methodology Conference 2025, Athens, Greece, June 2025.

@@ -7,6 +7,12 @@ author_profile: true
 
 ## Grants & Fellowships
 
+- 2026/04- JSPS KAKENHI (26K21188), 日本学術振興会.
+
+  <small>(Grant-in-Aid for Early-Career Scientists, JSPS)</small>
+
+- 2026/04- RIKEN Incentive Research Project, 理化学研究所.
+
 - 2023/10-2026/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
 
   <small>(ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.)</small>
@@ -25,6 +31,10 @@ author_profile: true
   
 
 ## Awards
+
+### 2025
+
+- 優秀賞, IBIS2025 (第28回情報論的学習理論と機械学習), 2025/11.
 
 ### 2023
 

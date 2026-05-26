@@ -21,30 +21,29 @@ Research Interests
 Recent Papers
 ------
 
+Publication
+
+- Wakayama, T. (2026), "A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt". **ICML 2026**, to appear.
+
+- Wakayama, T., and Suzuki, T. (2026), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning". **ICML 2026**. [arXiv:2510.10981](https://arxiv.org/abs/2510.10981).
+
+- Wakayama, T. and Sugasawa, S. (2025), "Ensemble Prediction via Covariate-dependent Stacking". *Statistics and Computing*. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
+
+- Wakayama, T., Sugasawa, S., and Kobayashi, G. (2025), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. ([publication](https://academic.oup.com/jrsssc/article-abstract/doi/10.1093/jrsssc/qlaf037/8171588)).
+
 Preprint
 
 - Wakayama, T., and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking". arXiv preprint, [arXiv:2405.09906](https://arxiv.org/abs/2405.09906), [code](https://github.com/TomWaka/BayesianStackingSpatiotemporalModeling).
-
-
-- Wakayama, T. (2024), "Bayesian Inference for Consistent Predictions in Overparameterized Nonlinear Regression". arXiv preprint, [arXiv:2404.04498](https://arxiv.org/abs/2404.04498), [code](https://github.com/TomWaka/BA-Overparameterized-NonLinReg).
-
-Publication
-
-- Wakayama, T. and Sugasawa, S. (2024), "Ensemble Prediction via Covariate-dependent Stacking". *Statistics and Computing*. ([publication](https://link.springer.com/article/10.1007/s11222-025-10739-y)).
-
-- Wakayama, T., Sugasawa, S., and Kobayashi, G. (2025+), "Similarity-based Random Partition Distribution for Clustering Functional Data". *Journal of the Royal Statistical Society, Series C*. [arXiv:2308.01704](https://arxiv.org/abs/2308.01704), [code](https://github.com/TomWaka/Similarity-based-Generalized-Dirichlet-Process).
-
-- Wakayama, T. and Imaizumi, M. (2024), "Fast Convergence on Perfect Classification for Functional Data". Statistica Sinica. ([publication](https://www3.stat.sinica.edu.tw/LatestART/SS-2022-0258\_fp.pdf))
 
 [See all papers](/papers)
 
 Recent Talks
 ------
+- Wakayama, T., and Suzuki, T. (2026), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning", ICML 2026, Vancouver, Canada, July 2026.
+
+- Wakayama, T., and Banerjee, S. (2026), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", JSM 2026, Nashville, USA, August 2026.
+
 - Wakayama, T., and Imaizumi, M. (2025), "Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra", Objective Bayes Methodology Conference 2025, Athens, Greece, June 2025.
-
-- Wakayama, T., and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", 2024 IMS International Conference on Statistics and Data Science, Nice, France, December 2024.
-
-- Wakayama, T., Sugasawa, S., Kobayashi, G. "Similarity-based Random Partition Distribution for Clustering Functional Data", ISBA World Meeting 2024, Venice, Italy, June 2024.
 
 
 [See all talks](/talks)
