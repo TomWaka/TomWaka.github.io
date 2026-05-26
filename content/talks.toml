@@ -6,138 +6,118 @@ description = "Selected talks and presentations."
 title = "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning"
 subtitle = "International Conference on Machine Learning, Seoul, Korea"
 date = "July 2026"
-content = "To be presented with Taiji Suzuki."
 tags = ["International", "Conference"]
 
 [[items]]
 title = "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking"
 subtitle = "Joint Statistical Meetings, Boston, USA"
 date = "August 2026"
-content = "Scheduled invited presentation with Sudipto Banerjee."
 tags = ["International", "Invited"]
 
 [[items]]
 title = "Bayesian Analysis for Over-parameterized Linear Models via Effective Spectra"
 subtitle = "Objective Bayes Methodology Conference, Athens, Greece"
 date = "June 2025"
-content = "Presented with Masaaki Imaizumi."
 tags = ["International", "Conference"]
 
 [[items]]
 title = "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking"
 subtitle = "IMS International Conference on Statistics and Data Science, Nice, France"
 date = "December 2024"
-content = "Presented with Sudipto Banerjee."
 tags = ["International", "Conference"]
 
 [[items]]
 title = "Similarity-based Random Partition Distribution for Clustering Functional Data"
 subtitle = "ISBA World Meeting, Venice, Italy"
 date = "June 2024"
-content = "Presented with Shonosuke Sugasawa and Genya Kobayashi."
 tags = ["International", "Conference"]
 
 [[items]]
 title = "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking"
 subtitle = "ISBA World Meeting, Venice, Italy"
 date = "June 2024"
-content = "Invited presentation with Sudipto Banerjee."
 tags = ["International", "Invited"]
 
 [[items]]
 title = "Bayesian Inference for Single-Index Models with Excess Parameters"
 subtitle = "Japanese Joint Statistical Meeting, Tokyo University of Science"
 date = "September 2024"
-content = "Presented with Masaaki Imaizumi."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Functional Regression with Excess Bases"
 subtitle = "Hiroshima University Friday Seminar, Hiroshima University"
 date = "December 2023"
-content = "Invited seminar talk."
 tags = ["Domestic", "Invited"]
 
 [[items]]
 title = "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast"
 subtitle = "EcoSta2023, Tokyo, Japan"
 date = "August 2023"
-content = "Invited session presentation with Shonosuke Sugasawa."
 tags = ["International", "Invited"]
 
 [[items]]
 title = "Spatio-temporal Factor Models for Large-Scale Data"
 subtitle = "64th ISI World Statistics Congress, Ottawa, Canada"
 date = "July 2023"
-content = "Conference presentation."
 tags = ["International", "Conference"]
 
 [[items]]
 title = "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast"
 subtitle = "2023 KSS Meeting, Busan, Korea"
 date = "July 2023"
-content = "Invited presentation."
 tags = ["International", "Invited"]
 
 [[items]]
 title = "Bayesian Factor Models for Spatio-temporal Functional Data and Application to Population Map Forecasting"
 subtitle = "Japanese Society of Applied Statistics Annual Meeting, Hokkaido University"
 date = "April 2023"
-content = "Presented with Shonosuke Sugasawa."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Bayesian Models for Large-Scale Spatio-temporal Data"
 subtitle = "KAKENHI Symposium on Statistical Science, Tokyo University of Science"
 date = "October 2022"
-content = "Symposium presentation."
 tags = ["Domestic", "Symposium"]
 
 [[items]]
 title = "Benign Overfitting of Overparameterized Bayesian Linear Regression"
 subtitle = "Japanese Joint Statistical Meeting, Seikei University"
 date = "September 2022"
-content = "Presented with Masaaki Imaizumi."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Bayesian Trend Filtering for Functional Data via Shrinkage Priors"
 subtitle = "6th EAC-ISBA Conference, Online"
 date = "July 2022"
-content = "Invited presentation."
 tags = ["International", "Invited"]
 
 [[items]]
 title = "Trend Filtering for Functional Data"
 subtitle = "36th Japanese Society of Computational Statistics Meeting, Ehime Prefectural Culture Hall"
 date = "May 2022"
-content = "Conference presentation."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Trend Filtering for Functional Data Using Shrinkage Priors"
 subtitle = "16th Japan Statistical Society Spring Meeting, Keio University Mita Campus"
 date = "March 2022"
-content = "Conference presentation."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Fast Convergence on Perfect Classification for Functional Data"
 subtitle = "Japanese Joint Statistical Meeting, Online"
 date = "September 2021"
-content = "Presented with Masaaki Imaizumi."
 tags = ["Domestic", "Conference"]
 
 [[items]]
 title = "Trend Filtering for Functional Data"
 subtitle = "Statistical Summer Seminar 2021, Online"
 date = "August 2021"
-content = "Seminar presentation."
 tags = ["Domestic", "Seminar"]
 
 [[items]]
 title = "Trend Filtering for Functional Time Series Data"
 subtitle = "15th Japan Statistical Society Spring Meeting, Online"
 date = "March 2021"
-content = "Conference presentation."
 tags = ["Domestic", "Conference"]

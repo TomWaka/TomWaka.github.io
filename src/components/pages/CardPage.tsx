@@ -29,6 +29,32 @@ function itemHasTag(item: CardItem, tag: string): boolean {
     return item.tags?.includes(tag) || false;
 }
 
+const monthOrder: Record<string, number> = {
+    january: 1,
+    february: 2,
+    march: 3,
+    april: 4,
+    may: 5,
+    june: 6,
+    july: 7,
+    august: 8,
+    september: 9,
+    october: 10,
+    november: 11,
+    december: 12,
+};
+
+function getDateSortValue(item: CardItem): number {
+    const year = Number(getYear(item));
+    const month = item.date?.match(/[A-Za-z]+/)?.[0]?.toLowerCase();
+    const monthValue = month ? monthOrder[month] || 1 : 1;
+    return (Number.isFinite(year) ? year : 0) * 100 + monthValue;
+}
+
+function sortByDateDescending(items: CardItem[]): CardItem[] {
+    return [...items].sort((a, b) => getDateSortValue(b) - getDateSortValue(a));
+}
+
 function groupByYear(items: CardItem[]): Array<[string, CardItem[]]> {
     const grouped = items.reduce<Record<string, CardItem[]>>((acc, item) => {
         const year = getYear(item);
@@ -82,28 +108,14 @@ function SimpleList({ items, embedded }: { items: CardItem[]; embedded: boolean 
 }
 
 function TalksList({ items, embedded }: { items: CardItem[]; embedded: boolean }) {
-    const sections = [
-        { title: 'International', items: items.filter((item) => itemHasTag(item, 'International')) },
-        { title: 'Domestic', items: items.filter((item) => itemHasTag(item, 'Domestic')) },
-    ].filter((section) => section.items.length > 0);
-
     return (
-        <div className="space-y-10">
-            {sections.map((section) => (
-                <section key={section.title}>
-                    <h2 className={`${embedded ? "text-xl" : "text-2xl"} font-serif font-bold text-primary mb-4`}>
-                        {section.title}
+        <div className="space-y-7">
+            {groupByYear(sortByDateDescending(items)).map(([year, yearItems]) => (
+                <section key={year}>
+                    <h2 className="text-base font-semibold text-neutral-500 dark:text-neutral-500 mb-2">
+                        {year}
                     </h2>
-                    <div className="space-y-7">
-                        {groupByYear(section.items).map(([year, yearItems]) => (
-                            <section key={`${section.title}-${year}`}>
-                                <h3 className="text-base font-semibold text-neutral-500 dark:text-neutral-500 mb-2">
-                                    {year}
-                                </h3>
-                                <SimpleList items={yearItems} embedded={embedded} />
-                            </section>
-                        ))}
-                    </div>
+                    <SimpleList items={sortByDateDescending(yearItems)} embedded={embedded} />
                 </section>
             ))}
         </div>
