@@ -1,29 +1,47 @@
 ---
-layout: archive
-title: "Experiences"
+layout: page
+title: "Experience"
 permalink: /experiences/
-author_profile: true
 ---
+
+## Positions
+
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Postdoctoral Researcher</span>
+    <span class="pub-meta">Deep Learning Theory Team, RIKEN Center for Advanced Intelligence Project (AIP) &middot; 2025 &ndash; present</span>
+  </li>
+</ul>
 
 ## Internships
 
-### Data Scientist at Nospare Inc. (2021 - 2023)
-- Worked on various data science projects utilizing statistical modeling
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Data Scientist</span>
+    <span class="pub-meta">Nospare Inc. &middot; 2021 &ndash; 2023 &middot; Statistical-modeling-based data science projects</span>
+  </li>
+</ul>
 
-## Research Assistant
+## Research Assistantships
 
-### Beyond AI Joint Project (2023 - 2024)
-- Working under the guidance of PI: Shonosuke Sugasawa, Graduate School of Economics, Keio University
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Beyond AI Joint Project</span>
+    <span class="pub-meta">PI: Shonosuke Sugasawa, Graduate School of Economics, Keio University &middot; 2023 &ndash; 2024</span>
+  </li>
+  <li>
+    <span class="pub-title">Complex Data Analysis Project</span>
+    <span class="pub-meta">PI: Masaaki Imaizumi, Graduate School of Arts and Sciences, The University of Tokyo &middot; 2020 &ndash; 2023</span>
+  </li>
+  <li>
+    <span class="pub-title">Translation of a Bayesian Statistics Textbook</span>
+    <span class="pub-meta">Assisted in translating a Bayesian statistics textbook from English to Japanese &middot; 2021</span>
+  </li>
+</ul>
 
-### Complex Data Analysis project (2020 - 2023)
-- Worked under the guidance of PI: Masaaki Imaizumi, Graduate School of Arts and Sciences, The University of Tokyo
+## Teaching Assistantships
 
-### Translation of Bayesian book project (2021)
-- Assisted in translating a book on Bayesian statistics from English to Japanese
-
-## Teaching Assistant
-
-### Graduate School of Economics, The University of Tokyo
+### The University of Tokyo, Graduate School of Economics
 
 #### 2023
 - Advanced Mathematical Statistics 1

@@ -1,23 +1,9 @@
 main:
-  - title: "Papers"
+  - title: "Publications"
     url: "/papers/"
   - title: "Talks"
     url: "/talks/"
-  - title: "Awards & Grants"
+  - title: "Awards"
     url: "/awards_grants/"
-  - title: "Experiences"
+  - title: "Experience"
     url: "/experiences/"
-
-papers:
-  - title: "Papers"
-    url: "/papers/#published-papers"
-  - title: "Preprints"
-    url: "/papers/#preprints"
-
-experiences:
-  - title: "Internships"
-    url: "/experiences/#internships"
-  - title: "Research Assistantships"
-    url: "/experiences/#research-assistantships"
-  - title: "Teaching Assistantships"
-    url: "/experiences/#teaching-assistantships"

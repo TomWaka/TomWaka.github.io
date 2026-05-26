@@ -1,63 +1,84 @@
 ---
-layout: archive
+layout: page
 title: "Awards & Grants"
 permalink: /awards_grants/
-author_profile: true
 ---
 
 ## Grants & Fellowships
 
-- 2026/04- JSPS KAKENHI (26K21188), 日本学術振興会.
-
-  <small>(Grant-in-Aid for Early-Career Scientists, JSPS)</small>
-
-- 2026/04- RIKEN Incentive Research Project, 理化学研究所.
-
-- 2023/10-2026/3  ACT-X「次世代AIを築く数理・情報科学の革新」,  JST. 
-
-  <small>(ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", JST.)</small>
-
-- 2023/08-2023/11 若手研究者海外挑戦プログラム,  JSPS. 
-
-  <small>(Overseas Challenge Program for Young Researchers, PI: Sudipto Banerjee at UCLA)</small>
-
-- 2022/04-2025/3 日本学術振興会特別研究員DC1,  JSPS.
-
-  <small>(Research Fellow DC1)</small>
-
-- 2021/06-2025/3 先端経済国際卓越大学院プログラム, 東京大学.
-
-  <small>(World-leading Innovative Graduate Study Program)</small>
-  
+<ul class="award-list">
+  <li>
+    <span class="pub-title">JSPS KAKENHI (26K21188), Grant-in-Aid for Early-Career Scientists</span>
+    <span class="pub-meta">Japan Society for the Promotion of Science &middot; 2026/04 &ndash;</span>
+  </li>
+  <li>
+    <span class="pub-title">RIKEN Incentive Research Project</span>
+    <span class="pub-meta">RIKEN &middot; 2026/04 &ndash;</span>
+  </li>
+  <li>
+    <span class="pub-title">ACT-X &ldquo;Innovations in Mathematical and Information Sciences for Building Next-generation AI&rdquo;</span>
+    <span class="pub-meta">Japan Science and Technology Agency (JST) &middot; 2023/10 &ndash; 2026/03</span>
+  </li>
+  <li>
+    <span class="pub-title">Overseas Challenge Program for Young Researchers</span>
+    <span class="pub-meta">JSPS &middot; 2023/08 &ndash; 2023/11 &middot; PI: Sudipto Banerjee (UCLA)</span>
+  </li>
+  <li>
+    <span class="pub-title">JSPS Research Fellow DC1</span>
+    <span class="pub-meta">Japan Society for the Promotion of Science &middot; 2022/04 &ndash; 2025/03</span>
+  </li>
+  <li>
+    <span class="pub-title">World-leading Innovative Graduate Study Program</span>
+    <span class="pub-meta">The University of Tokyo &middot; 2021/06 &ndash; 2025/03</span>
+  </li>
+</ul>
 
 ## Awards
 
 ### 2025
 
-- 優秀賞, IBIS2025 (第28回情報論的学習理論と機械学習), 2025/11.
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Excellence Award</span>
+    <span class="pub-meta">IBIS 2025 (28th Workshop on Information-Based Induction Sciences and Machine Learning) &middot; November 2025</span>
+  </li>
+</ul>
 
 ### 2023
 
-- ISI東京大会記念奨励賞, 日本統計学会, 2023/9
-  
-- 優秀発表賞, 応用統計学会, 2023/4
+<ul class="award-list">
+  <li>
+    <span class="pub-title">ISI Tokyo Commemorative Encouragement Award</span>
+    <span class="pub-meta">Japan Statistical Society &middot; September 2023</span>
+  </li>
+  <li>
+    <span class="pub-title">Excellent Presentation Award</span>
+    <span class="pub-meta">Japanese Society of Applied Statistics &middot; April 2023</span>
+  </li>
+</ul>
 
 ### 2022
 
-- 学生優秀研究発表賞, 日本計算機統計学会第36回大会, 2022/5
-
-  <small>(Best Student Research Presentation Award, 36th Japanese Society of Computational Statistics Meeting, May, 2022)</small>
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Best Student Research Presentation Award</span>
+    <span class="pub-meta">36th Japanese Society of Computational Statistics Meeting &middot; May 2022</span>
+  </li>
+</ul>
 
 ### 2021
 
-- 優秀報告賞​, 2021年度統計関連学会連合大会, 2021/9.
-
-  <small>(Nice Presentation Award, Japanese Joint Statistical Meeting 2021, September 2021)</small>
-
-- 学生優秀発表賞, 第15回日本統計学会春季集会, 2021/3. 
-
-  <small>(Best Student Presentation Award, 15th Japan Statistical Society Spring Meeting, March 2021)</small>
-
-- 統計検定センター長賞, 第15回日本統計学会春季集会, 2021/3.
-
-  <small>(Japan Statistical Society Certificate Director's Award, 15th Japan Statistical Society Spring Meeting, March 2021)</small>
+<ul class="award-list">
+  <li>
+    <span class="pub-title">Nice Presentation Award</span>
+    <span class="pub-meta">Japanese Joint Statistical Meeting 2021 &middot; September 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Best Student Presentation Award</span>
+    <span class="pub-meta">15th Japan Statistical Society Spring Meeting &middot; March 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Japan Statistical Society Certificate Director&rsquo;s Award</span>
+    <span class="pub-meta">15th Japan Statistical Society Spring Meeting &middot; March 2021</span>
+  </li>
+</ul>

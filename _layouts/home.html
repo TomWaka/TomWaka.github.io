@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="home">
+  <section class="hero">
+    <div class="hero__photo">
+      <img src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    </div>
+    <div class="hero__intro">
+      <h1>{{ site.author.name }}</h1>
+      <p class="hero__role">Postdoctoral Researcher</p>
+      <p class="hero__affil">
+        Deep Learning Theory Team,<br>
+        RIKEN Center for Advanced Intelligence Project
+      </p>
+      <ul class="hero__links">
+        {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}" aria-label="Email"><i class="fa-solid fa-envelope"></i></a></li>{% endif %}
+        {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>{% endif %}
+        {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" aria-label="GitHub"><i class="fa-brands fa-github"></i></a></li>{% endif %}
+        {% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}" aria-label="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a></li>{% endif %}
+      </ul>
+    </div>
+  </section>
+
+  <section class="home__section">
+    {{ content }}
+  </section>
+</article>

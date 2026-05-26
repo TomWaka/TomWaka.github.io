@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-header__brand" href="{{ base_path }}/">{{ site.name }}</a>
+    <nav class="site-nav" aria-label="Primary">
+      <ul>
+        <li><a href="{{ base_path }}/">About</a></li>
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = base_path %}
+          {% endif %}
+          <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle color theme" title="Toggle theme">
+      <i class="fa-solid fa-circle-half-stroke" aria-hidden="true"></i>
+    </button>
+  </div>
+</header>

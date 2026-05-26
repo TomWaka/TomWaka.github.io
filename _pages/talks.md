@@ -1,68 +1,134 @@
 ---
-layout: archive
-title: "Talks and Presentations"
+layout: page
+title: "Talks & Presentations"
 permalink: /talks/
-author_profile: true
 ---
 
-## International (*: invited talk/session)
+## International (*: invited)
 
 ### 2026
 
-- **Wakayama, T.**, and Suzuki, T. (2026), "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning", International Conference on Machine Learning (ICML 2026), Seoul, Korea, July 2026.
-
-- **Wakayama, T.**, and Banerjee, S. (2026), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", Joint Statistical Meetings (JSM 2026), Boston, USA, August 2026. (*)
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Suzuki, T. &middot; <span class="pub-venue">ICML 2026</span> &middot; Seoul, Korea &middot; July 2026</span>
+  </li>
+  <li>
+    <span class="pub-title">Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Banerjee, S. &middot; <span class="pub-venue">JSM 2026</span> &middot; Boston, USA &middot; August 2026 (*)</span>
+  </li>
+</ul>
 
 ### 2025
 
-- Wakayama, T., and Imaizumi, M. (2025), "Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra", Objective Bayes Methodology Conference 2025, Athens, Greece, June 2025.
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Bayesian Analysis for Over-parameterized Linear Model via Effective Spectra</span>
+    <span class="pub-meta">Wakayama, T., and Imaizumi, M. &middot; <span class="pub-venue">Objective Bayes Methodology Conference 2025</span> &middot; Athens, Greece &middot; June 2025</span>
+  </li>
+</ul>
 
 ### 2024
 
-- **Wakayama, T.**, and Banerjee, S. (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", 2024 IMS International Conference on Statistics and Data Science, Nice, France, December 2024.
-
-- **Wakayama, T.**, Sugasawa, S., Kobayashi, G. "Similarity-based Random Partition Distribution for Clustering Functional Data", ISBA World Meeting 2024, Venice, Italy, June 2024.
-
-- Wakayama, T., and **Banerjee, S.** (2024), "Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking", ISBA World Meeting 2024, Venice, Italy, June 2024. (*)
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Banerjee, S. &middot; <span class="pub-venue">2024 IMS International Conference on Statistics and Data Science</span> &middot; Nice, France &middot; December 2024</span>
+  </li>
+  <li>
+    <span class="pub-title">Similarity-based Random Partition Distribution for Clustering Functional Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, Sugasawa, S., and Kobayashi, G. &middot; <span class="pub-venue">ISBA World Meeting 2024</span> &middot; Venice, Italy &middot; June 2024</span>
+  </li>
+  <li>
+    <span class="pub-title">Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking</span>
+    <span class="pub-meta">Wakayama, T., and <strong>Banerjee, S.</strong> &middot; <span class="pub-venue">ISBA World Meeting 2024</span> &middot; Venice, Italy &middot; June 2024 (*)</span>
+  </li>
+</ul>
 
 ### 2023
 
-- **Wakayama, T.**, Sugasawa, S. "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast", EcoSta2023, Tokyo, Japan, August 2nd, 2023. (*)
-
-- **Wakayama, T.** "Spatio Temporal Factor Models for Large Scale Data", 64th ISI World Statistics Congress, Ottawa, Canada, July 17th, 2023.
-
-- **Wakayama, T.** "Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast", 2023 KSS Meeting, Busan, Korea, July 1st, 2023. (*)
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Sugasawa, S. &middot; <span class="pub-venue">EcoSta 2023</span> &middot; Tokyo, Japan &middot; August 2023 (*)</span>
+  </li>
+  <li>
+    <span class="pub-title">Spatio-Temporal Factor Models for Large-Scale Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">64th ISI World Statistics Congress</span> &middot; Ottawa, Canada &middot; July 2023</span>
+  </li>
+  <li>
+    <span class="pub-title">Spatiotemporal Factor Models for Functional Data with Application to Population Map Forecast</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">2023 KSS Meeting</span> &middot; Busan, Korea &middot; July 2023 (*)</span>
+  </li>
+</ul>
 
 ### 2022
 
-- **Wakayama, T.** "Bayesian Trend Filtering for Functional Data via Shrinkage Priors", The 6th EAC-ISBA Conference, Online, July 7th, 2022. (*)
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Bayesian Trend Filtering for Functional Data via Shrinkage Priors</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">The 6th EAC-ISBA Conference</span> &middot; Online &middot; July 2022 (*)</span>
+  </li>
+</ul>
 
 ## Domestic
 
 ### 2024
 
-- **若山 智哉**, 今泉 允聡. 「過剰パラメーターを持つシングルインデックスモデルのベイズ推論」, 2024年度統計関連学会連合大会, 東京理科大学, 9月4日, 2024年.
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Bayesian Inference for Over-parameterized Single-Index Models</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Imaizumi, M. &middot; <span class="pub-venue">Japanese Joint Statistical Meeting 2024</span> &middot; Tokyo University of Science &middot; September 2024</span>
+  </li>
+</ul>
 
 ### 2023
 
-- **若山 智哉**. 広島大学金曜セミナー, 「関数回帰と過剰基底」, 広島大学, 12月1日, 2023年. (*)
-
-- **若山 智哉**, 菅澤 翔之助. 「時空間関数データのベイズ型因子モデルと人口マップ予測への応用」, 2023年度応用統計学会年会, 北海道大学, 4月22日, 2023年.
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Functional Regression and Excess Bases</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">Hiroshima University Friday Seminar</span> &middot; December 2023 (*)</span>
+  </li>
+  <li>
+    <span class="pub-title">Bayesian Factor Models for Spatiotemporal Functional Data and Population Map Forecasting</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Sugasawa, S. &middot; <span class="pub-venue">Japanese Society of Applied Statistics 2023 Annual Meeting</span> &middot; Hokkaido University &middot; April 2023</span>
+  </li>
+</ul>
 
 ### 2022
 
-- **若山 智哉**. 「大規模時空間データに対するベイズモデル」, 科研費シンポジウム「多様な分野における統計科学の理論とその応用」, 東京理科大学, 10月29日, 2022年.
-
-- **若山 智哉**, 今泉 允聡. "Benign-Overfitting of Overparameterized Bayesian Linear Regression", 2022年度統計関連学会連合大会, 成蹊大学, 9月4-8日, 2022年.
-
-- **若山 智哉**. 「関数データのトレンドフィルタリング」, 日本計算機統計学会第36回大会, 愛媛県県民文化会館, 5月21日, 2022年.
-
-- **若山 智哉**. 「縮小事前分布を用いた関数データのトレンドフィルタリング」, 第16回日本統計学会春季集会, 慶應義塾大学三田キャンパス, 3月5日, 2022年.
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Bayesian Models for Large-Scale Spatiotemporal Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">KAKENHI Symposium &ldquo;Theory and Applications of Statistical Science Across Diverse Fields&rdquo;</span> &middot; Tokyo University of Science &middot; October 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Benign-Overfitting of Overparameterized Bayesian Linear Regression</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Imaizumi, M. &middot; <span class="pub-venue">Japanese Joint Statistical Meeting 2022</span> &middot; Seikei University &middot; September 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Trend Filtering for Functional Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">36th Japanese Society of Computational Statistics Meeting</span> &middot; Ehime, Japan &middot; May 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Trend Filtering for Functional Data via Shrinkage Priors</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">16th Japan Statistical Society Spring Meeting</span> &middot; Keio University &middot; March 2022</span>
+  </li>
+</ul>
 
 ### 2021
 
-- **若山 智哉**, 今泉 允聡. 「関数データの分類問題における完全分類条件と収束レート解析」, 2021年度統計関連学会連合大会, オンライン開催, 9月5-9日, 2021年.
-
-- **若山 智哉**. 「関数データに対するトレンドフィルタリング」, 統計サマーセミナー2021, オンライン開催, 8月9日, 2021年.
-
-- **若山 智哉**. 「関数時系列データに対するトレンドフィルタリング」, 第15回日本統計学会春季集会, オンライン開催, 3月13日, 2021年.
+<ul class="talk-list">
+  <li>
+    <span class="pub-title">Perfect Classification Conditions and Convergence Rate Analysis for Functional Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong>, and Imaizumi, M. &middot; <span class="pub-venue">Japanese Joint Statistical Meeting 2021</span> &middot; Online &middot; September 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Trend Filtering for Functional Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">Statistics Summer Seminar 2021</span> &middot; Online &middot; August 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Trend Filtering for Functional Time Series Data</span>
+    <span class="pub-meta"><strong>Wakayama, T.</strong> &middot; <span class="pub-venue">15th Japan Statistical Society Spring Meeting</span> &middot; Online &middot; March 2021</span>
+  </li>
+</ul>
