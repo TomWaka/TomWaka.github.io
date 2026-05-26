@@ -78,16 +78,6 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         </p>
                                     )}
                                     <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-                                        {pub.doi && (
-                                            <a
-                                                href={`https://doi.org/${pub.doi}`}
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="text-accent hover:text-accent-dark"
-                                            >
-                                                DOI
-                                            </a>
-                                        )}
                                         {pub.url && (
                                             <a
                                                 href={pub.url}
