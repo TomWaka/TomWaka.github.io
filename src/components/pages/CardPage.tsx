@@ -70,11 +70,15 @@ function groupByYear(items: CardItem[]): Array<[string, CardItem[]]> {
     });
 }
 
-function renderItem(item: CardItem, index: number, embedded: boolean) {
+function renderItem(item: CardItem, index: number, embedded: boolean, compactTitle = false) {
+    const titleClass = compactTitle
+        ? `${embedded ? "text-base" : "text-lg"} font-medium`
+        : `${embedded ? "text-lg" : "text-xl"} font-semibold`;
+
     return (
         <li key={`${item.title}-${item.date || index}`} className="py-4 first:pt-0">
             <div className="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
-                <h4 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary leading-snug`}>
+                <h4 className={`${titleClass} text-primary leading-snug`}>
                     {item.title}
                 </h4>
                 {item.date && (
@@ -99,10 +103,10 @@ function renderItem(item: CardItem, index: number, embedded: boolean) {
     );
 }
 
-function SimpleList({ items, embedded }: { items: CardItem[]; embedded: boolean }) {
+function SimpleList({ items, embedded, compactTitles = false }: { items: CardItem[]; embedded: boolean; compactTitles?: boolean }) {
     return (
         <ul className="divide-y divide-neutral-200 dark:divide-neutral-800">
-            {items.map((item, index) => renderItem(item, index, embedded))}
+            {items.map((item, index) => renderItem(item, index, embedded, compactTitles))}
         </ul>
     );
 }
@@ -115,7 +119,7 @@ function TalksList({ items, embedded }: { items: CardItem[]; embedded: boolean }
                     <h2 className="text-base font-semibold text-neutral-500 dark:text-neutral-500 mb-2">
                         {year}
                     </h2>
-                    <SimpleList items={sortByDateDescending(yearItems)} embedded={embedded} />
+                    <SimpleList items={sortByDateDescending(yearItems)} embedded={embedded} compactTitles />
                 </section>
             ))}
         </div>
@@ -134,10 +138,10 @@ function AwardsGrantsList({ items, embedded }: { items: CardItem[]; embedded: bo
         <div className="space-y-10">
             {sections.map((section) => (
                 <section key={section.title}>
-                    <h2 className={`${embedded ? "text-xl" : "text-2xl"} font-serif font-bold text-primary mb-3`}>
+                    <h2 className={`${embedded ? "text-lg" : "text-xl"} font-serif font-semibold text-primary mb-3`}>
                         {section.title}
                     </h2>
-                    <SimpleList items={section.items} embedded={embedded} />
+                    <SimpleList items={section.items} embedded={embedded} compactTitles />
                 </section>
             ))}
         </div>

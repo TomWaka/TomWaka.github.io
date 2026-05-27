@@ -62,14 +62,12 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-700 dark:text-neutral-500 leading-relaxed mb-1`}>
                                         {pub.authors.map((author, idx) => (
                                             <span key={idx}>
-                                                <span className={author.isHighlighted ? 'font-semibold text-accent' : ''}>
-                                                    {author.name}
-                                                </span>
+                                                {author.name}
                                                 {idx < pub.authors.length - 1 && ', '}
                                             </span>
                                         ))}
                                     </p>
-                                    <p className="text-sm text-neutral-600 dark:text-neutral-500 italic mb-2">
+                                    <p className="text-sm text-accent dark:text-accent-light font-medium mb-2">
                                         {getVenue(pub)}
                                     </p>
                                     {pub.description && (
