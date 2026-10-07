@@ -2,6 +2,20 @@ type = "card"
 title = "Awards & Grants"
 
 [[items]]
+title = "JST ARiSE, International/Convergence"
+subtitle = "Japan Science and Technology Agency"
+date = "2026 -"
+content = "Co-investigator, [オープンエンド探索AIによる未知量子物性開拓](https://www.jst.go.jp/pr/info/info1875/pdf/info1875.pdf#page=5)."
+tags = ["Grant"]
+
+[[items]]
+title = "JST ERATO, SUZUKI Mathematical AI Informatics"
+subtitle = "Japan Science and Technology Agency"
+date = "2026 -"
+content = "Project member. [Project website](https://www.jst.go.jp/erato/en/research_area/ongoing/jpmjer2601_en.html)."
+tags = ["Grant"]
+
+[[items]]
 title = "JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists"
 subtitle = "Japan Society for the Promotion of Science"
 date = "2026 -"

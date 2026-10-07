@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-10"
+content = "New preprint: Diffusion Transformers are Provably Optimal In-context Generators (arXiv:2610.05333)."
+
+[[news]]
 date = "2026-05"
 content = "Two papers were accepted to ICML 2026."
 
