@@ -63,6 +63,10 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
     const title = parseBibTeXInline(tags.title || 'Untitled');
+    const archivePrefix = tags.archiveprefix || tags.archivePrefix;
+    const arxivId = archivePrefix?.toLowerCase() === 'arxiv' && tags.eprint
+      ? tags.eprint
+      : tags.url?.match(/^https?:\/\/(?:www\.)?arxiv\.org\/(?:abs|pdf)\/([^?#]+?)(?:\.pdf)?(?:[?#]|$)/i)?.[1];
 
     // Create publication object
     const publication: Publication = {
@@ -85,6 +89,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       issue: tags.number,
       pages: tags.pages,
       doi: tags.doi,
+      arxivId,
       url: tags.url,
       code: tags.code,
       abstract: cleanBibTeXString(tags.abstract),

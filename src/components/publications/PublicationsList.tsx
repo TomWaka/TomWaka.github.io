@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
 import FormattedBibTeXText from './FormattedBibTeXText';
+import PublicationLinks from './PublicationLinks';
 
 interface PublicationsListProps {
     config: PublicationPageConfig;
@@ -12,16 +13,14 @@ interface PublicationsListProps {
 }
 
 function getVenue(pub: Publication): string {
-    if (pub.journal) return `${pub.journal}, ${pub.year}`;
-    if (pub.conference) return `${pub.conference}, ${pub.year}`;
+    const venue = pub.journal || pub.conference;
+    if (venue) {
+        const volume = pub.volume ? `${pub.volume}${pub.issue ? `(${pub.issue})` : ''}` : '';
+        const pages = pub.pages?.replace(/--/g, '–');
+        return `${[venue, volume, pages].filter(Boolean).join(', ')} (${pub.year})`;
+    }
     if (pub.type === 'preprint') return `Preprint, ${pub.year}`;
     return `${pub.year}`;
-}
-
-function getUrlLabel(url: string): string {
-    if (url.includes('arxiv.org')) return 'arXiv';
-    if (url.includes('github.com')) return 'Code';
-    return 'Publication';
 }
 
 export default function PublicationsList({ config, publications, embedded = false }: PublicationsListProps) {
@@ -75,28 +74,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             {pub.description}
                                         </p>
                                     )}
-                                    <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-                                        {pub.url && (
-                                            <a
-                                                href={pub.url}
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="text-accent hover:text-accent-dark"
-                                            >
-                                                {getUrlLabel(pub.url)}
-                                            </a>
-                                        )}
-                                        {pub.code && (
-                                            <a
-                                                href={pub.code}
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="text-accent hover:text-accent-dark"
-                                            >
-                                                Code
-                                            </a>
-                                        )}
-                                    </div>
+                                    <PublicationLinks publication={pub} />
                                 </li>
                             ))}
                         </ul>

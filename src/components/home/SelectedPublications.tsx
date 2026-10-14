@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { Publication } from '@/types/publication';
 import { useMessages } from '@/lib/i18n/useMessages';
 import FormattedBibTeXText from '@/components/publications/FormattedBibTeXText';
+import PublicationLinks from '@/components/publications/PublicationLinks';
 
 interface SelectedPublicationsProps {
     publications: Publication[];
@@ -61,10 +62,11 @@ export default function SelectedPublications({ publications, title, enableOnePag
                             {pub.journal || pub.conference}
                         </p>
                         {pub.description && (
-                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
+                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2 mb-2">
                                 {pub.description}
                             </p>
                         )}
+                        <PublicationLinks publication={pub} />
                     </motion.div>
                 ))}
             </div>
